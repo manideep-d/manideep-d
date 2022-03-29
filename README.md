@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Manideep
+
+###About me:- 
+
+- 🔭 I’m a Full stack developer and Machine Learning Engineer
+- 🌱 I’m currently learning React
+-  How to reach me: manideep2244@gmail.com
+
 
 <!--
 **manideep-d/manideep-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
