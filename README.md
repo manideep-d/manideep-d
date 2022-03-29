@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Manideep
 
-###About me:- 
+### About me:- 
 
 - 🔭 I’m a Full stack developer and Machine Learning Engineer
 - 🌱 I’m currently learning React
