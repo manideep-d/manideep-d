@@ -3,7 +3,6 @@
 ### About me:- 
 
 - 🔭 I’m a Full stack developer and Machine Learning Engineer
-- 🌱 I’m currently learning React
 -  How to reach me: manideep2244@gmail.com
 
 
