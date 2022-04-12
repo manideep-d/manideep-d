@@ -6,7 +6,6 @@
 
 - 🔭 I’m a Full stack developer and Machine Learning Engineer
 - 💬 Ask me about anything related to Java/Spring/JPA/Microservices/Javascript or Python/Machine Learning/Deep Learning/Computer Vision/NLP
-<br>
  
 <h3>Skills Set:</h3>
 <div align="center">
