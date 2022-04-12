@@ -8,8 +8,9 @@
 - 💬 Ask me about anything related to Java/Spring/JPA/Microservices/Javascript or Python/Machine Learning/Deep Learning/Computer Vision/NLP
 <br>
  
-<h3 align="center">Skills and Experience:</h3>
+<h3>Skills Set:</h3>
 <div align="center">
+<img src='https://camo.githubusercontent.com/7c61cf24e35e3840a10b91b8510a5b02eb188d5e0f255db135ca6dca9d7e26df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> <img src='https://camo.githubusercontent.com/ce6baf5ffef52faec6917ad2a2fa7e3c11252b891a16b419019b30b7ebfeefe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> 
  
 <br>
 
