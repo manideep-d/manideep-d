@@ -1,15 +1,30 @@
 ### Hi there 👋 I'm Manideep
 
+<b>
+
 ### About me:- 
 
 - 🔭 I’m a Full stack developer and Machine Learning Engineer
 - 💬 Ask me about anything related to Java/Spring/JPA/Microservices/Javascript or Python/Machine Learning/Deep Learning/Computer Vision/NLP
 
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/manideep-dara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manideep" height="30" width="40" /></a>
+<br>
 
+<h3 align="center">How to Connect Me:</h3>
+
+
+<div align="center">
+
+manideep2244@gmail.com
+
+<a href="https://github.com/manideep-d" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href=https://www.linkedin.com/in/manideep-dara/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+ 
+</div>
 
 
 <!--
