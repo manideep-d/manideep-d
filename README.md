@@ -44,10 +44,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 <br>
 
-<h3 align="center">How to Connect Me:</h3>
-
-
-<div align="center">
+<h3>📫 Connect Me:</h3>
+<div>
 
 manideep2244@gmail.com
 
