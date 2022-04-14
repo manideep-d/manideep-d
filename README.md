@@ -27,8 +27,6 @@ manideep2244@gmail.com
 <a href=https://www.linkedin.com/in/manideep-dara/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
-                                                                   
-                                                                   <br>
 <img src="https://komarev.com/ghpvc/?username=manideep-d&style=flat-square&color=blue" alt=""/>
 
  
