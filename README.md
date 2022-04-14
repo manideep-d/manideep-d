@@ -4,8 +4,9 @@
 
 ### About me:- 
 
-- 🔭 I’m a Full stack developer and Machine Learning Engineer
-- 💬 Ask me about anything related to Java/Spring/JPA/Microservices/Javascript or Python/Machine Learning/Deep Learning/Computer Vision/NLP
+- 🔭 I’m passionte about learning new technologies.
+- 👯 I’m looking to collaborate with other software enginners 
+- 🌱 I'm looking to join a company to develop and deliver bussiness solutions with my versatile skill set. 
 
 <h3>Skill Set:</h3>
 <div align="center">
