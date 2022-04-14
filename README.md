@@ -29,7 +29,7 @@ manideep2244@gmail.com
 </a>  
 
                                                                    
-                                                                   <img src="https://komarev.com/ghpvc/?username=manideep-d&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=manideep-d&style=flat-square&color=blue" alt=""/>
 
  
 </div>
